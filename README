@@ -1,1 +1,10 @@
 Example app of how to communicate between a JS backend-frontend with Julia functions
+
+Note: Julia and NodeJS should be installed otherwise the app will not work.
+Julia: https://julialang.org/
+NodeJS: https://nodejs.org/en/
+
+run by cloning the repository then
+$ cd the-repository-directory-path
+$ cd server
+$ node index.js
