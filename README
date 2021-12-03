@@ -8,3 +8,5 @@ run by cloning the repository then
 $ cd the-repository-directory-path
 $ cd server
 $ node index.js
+
+I plan to create more functionality and more complex logic later, but as of right now there is currently only the "average" function
